@@ -1,0 +1,27 @@
+_repo: '---_24075'
+_version: 0.1.0
+alternative_title: Qian Zi Wen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhou, Xingsi
+    alias: 周興嗣
+    deathdate: 521
+    gutenberg_agent_id: '26124'
+    url: http://www.gutenberg.org/2009/agents/26124
+description: ''
+gutenberg_issued: '2007-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24075'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese language -- Readers'
+title: 千字文
+url: http://www.gutenberg.org/ebooks/24075
